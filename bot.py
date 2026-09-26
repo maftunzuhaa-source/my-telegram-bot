@@ -7,8 +7,8 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboard
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters, CallbackQueryHandler
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"          # ← এখানে তোমার বট টোকেন দাও
-ADMINS = [7808485930]                      # ← এখানে তোমার টেলিগ্রাম আইডি দাও
+BOT_TOKEN = "8632335432:AAF6fThMY_2pLqXID4562EzFKR_iAiXHgFk"          # ← এখানে তোমার বট টোকেন দাও
+ADMINS = [8645151760]                      # ← এখানে তোমার টেলিগ্রাম আইডি দাও
 
 # Files
 USER_DATA_FILE = "users.json"
